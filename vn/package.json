@@ -1,0 +1,14 @@
+{
+  "name": "vn",
+  "version": "1.0.0",
+  "description": "common vietnam provinces json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hanhchinhvn": "^1.6.0"
+  }
+}
